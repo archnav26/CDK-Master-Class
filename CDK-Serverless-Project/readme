@@ -1,0 +1,6 @@
+-- for debugging the lambda
+ts-node entry inside the devDependencies{} of package.json is the must 
+then click on "Run and Debug" icon button
+Click on "creat a launch.json file" and select node.js in the drop down
+change the configuration in launch.json file
+open launcher.ts and click "debug button" select "Debug local lambda" 
